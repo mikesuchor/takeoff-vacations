@@ -35,7 +35,7 @@ h1 {
     font-size: 7vw;
     font-weight: 900;
     color: white;
-    text-shadow: 1px 1px #022859;
+    text-shadow: 3px 3px #022859;
     margin-top: 5vh;
     margin-left: 6vw;
 }
@@ -45,16 +45,15 @@ h1 span {
     font-size: 7vw;
     font-weight: 900;
     color: white;
-    text-shadow: 1px 1px #022859;
-    border-bottom: 2px solid #022859;
+    text-shadow: 3px 3px #022859;
+    border-bottom: 0.3vh solid #022859;
 }
 
 h2 {
     font-family: 'Playfair Display', serif;
     font-size: 2.4vw;
-    font-weight: 200;
+    font-weight: 600;
     color: white;
-    text-shadow: 1px 1px #022859;
     margin-top: 2vh;
     margin-left: 6vw;
 }
@@ -171,7 +170,7 @@ a {
     }
     
     h2 {
-        font-size: 3vw;
+        font-size: 6vw;
         margin-top: 2vh;
         margin-left: 6vw;
     }
@@ -195,6 +194,7 @@ a {
     .navbar_main .book_now a {
         font-size: 2.5vw;
         margin-right: 2.5vw;
+        padding: 6px;
     }
     
     .navbar_main > li:first-of-type {
