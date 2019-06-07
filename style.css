@@ -149,6 +149,11 @@ a {
     flex: 1;
 }
 
+#main_section form button:hover {
+    background: #011227;
+    cursor: pointer;
+}
+
 /* Responsive */
 
 @media only screen and (max-width: 550px) {
